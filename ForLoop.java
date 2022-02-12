@@ -7,6 +7,8 @@ public class ForLoop {
 			System.out.println(i);
 		}
 
+		System.out.println("Hello World");
+
 	}
 
 }
