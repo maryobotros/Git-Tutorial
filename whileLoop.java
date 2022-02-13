@@ -10,6 +10,8 @@ public class whileLoop {
 			i ++;
 		}
 
+		System.out.println("Hello World");
+
 	}
 
 }
